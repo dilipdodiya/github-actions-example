@@ -1,4 +1,4 @@
-name1: sample-github-actions
+name     : sample-github-actions
 
 on: push
 
